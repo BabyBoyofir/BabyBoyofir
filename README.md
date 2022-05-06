@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Babyboyofir, 17 Yo. 
 - 👀 I’m A developer since 2020.
 - 🌱 I’m currently learning Swift. 
-- 💫 Knowledge: Py, JS, TS, Java, Php, Dart, HTML, CSS . 
+- 💫 Knowledge: Py, JS, TS, Java, Php, Bash, C++, Html, Css. 
 - 📫 You can contact me via discord.
-- ✉️ Discord: Babyboyofir#3075
+- ✉️ Discord: Babyboyofir#8200
 - ✉️ Email: Babyboyofir1@gmail.com
 - 🌍 website: https://babyboyofir.netlify.app/
