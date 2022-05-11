@@ -1,4 +1,4 @@
-![pexels-photo-2246476](https://user-images.githubusercontent.com/89362217/167833718-1dec25dd-3afb-4e9d-9d11-32bf255b4ca3.jpeg)
+
 - 👋 Hi, I’m Babyboyofir, 17 Yo. 
 - 👀 I’m A developer since 2019.
 - 🌱 I’m currently learning Swift. 
@@ -7,3 +7,7 @@
 - ✉️ Discord: [Babyboyofir#8200](https://discord.com/users/959344949357330462)
 - ✉️ Email: Babyboyofir1@gmail.com
 - 🌍 website: https://babyboyofir.netlify.app/
+
+
+
+
