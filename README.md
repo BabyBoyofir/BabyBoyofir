@@ -8,7 +8,7 @@
 <br />
 
 <font size="5">__Introduction__ </font>                                         
-- 👀 I’m A developer since 2019. <br />
+- 👀 I’m A Programmer since 2019. <br />
 - 🌱 I’m currently learning Swift. <br />
 - 💫 Knowledge: Py, JS, TS, Java, Php, Bash, C++, Html, Css. <br />
 - 📫 You can contact me via discord. <br />
@@ -18,8 +18,16 @@
 
 <br />
 <br />
-
-
+<font size="5">__About Me__ </font>   
+ { Im ofir, or at my nickname "Babyboyofir". With 3 Years of programming I reachted many achievement And made a few Projects Like MUSICBOT (Discord Bot) and more.
+ Sometimes I sell Custom Discord bots and Build Custom websites.
+ <img src="https://upload.wikimedia.org/wikipedia/he/7/70/Technion_Logo.png" alt="Tech" width="12"/> Im a  Cyber student at the [Technion]("https://www.technion.ac.il") College.
+ <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python" width="12"/> Self.Py course graduate.
+  
+ 
+ 
+<br />
+<br />
 
 <font size="5">__Languages and Tools__</font>
 
