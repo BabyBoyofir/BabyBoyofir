@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Swift. <br />
 - 💫 Knowledge: Py, JS, TS, Java, Php, Bash, C++, Html, Css. <br />
 - 📫 You can contact me via discord. <br />
-- ✉️ Discord: [Babyboyofir#8200](https://discord.com/users/959344949357330462) <br />
+- ✉️ Discord: [MisterO.#8200](https://discord.com/users/959344949357330462) <br />
 - ✉️ Email: Babyboyofir1@gmail.com <br />
 - 🌍 Website: https://babyboyofir.netlify.app/ <br />
 
