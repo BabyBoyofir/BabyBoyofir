@@ -43,7 +43,7 @@
 <font size="6">__Linux Tools__</font>
 
 [<img src="https://static.techspot.com/images2/downloads/topdownload/2017/05/jtr.png" alt="jhonn" width="45"/>](https://en.wikipedia.org/wiki/John_the_Ripper)
-[<img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="hydra" width="45"/>](https://www.kali.org/tools/hydra/) [<img src="[https://www.kali.org/tools/hydra/images/hydra-logo.svg](https://nmap.org/images/nmap-logo-256x256.png)" alt="nmap" width="45"/>](https://nmap.org)
+[<img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="hydra" width="45"/>](https://www.kali.org/tools/hydra/) [<img src="[https://nmap.org/images/nmap-logo-256x256.png]" alt="nmap" width="45"/>](https://nmap.org)
 
 
 
