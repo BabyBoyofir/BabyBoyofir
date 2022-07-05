@@ -22,8 +22,8 @@
 <font size="5">__About Me__ </font> =>
 {
 
- Im ofir,  AKA  "MisterO".<br /> I acquired all my knowledge over time with guides and courses.<br /> With 3 Years of programming I reachted many achievement And made a few Projects Like MUSICBOT (Discord Bot) and more.<br />
- Sometimes I sell Custom Discord bots and Build Custom websites.<br /> <br />
+ I'm Ofir,  AKA  "MisterO".<br /> I acquired all my knowledge over time with guides and courses.<br /> With 3 Years of programming I reachted many achievement And made  Projects that has been sold worldwide.<br />
+ At my spare time I sell Custom Discord bots and Build Custom websites.<br /> <br />
  <img src="https://upload.wikimedia.org/wikipedia/he/7/70/Technion_Logo.png" alt="Tech" width="18"/>  Im a  Cyber student at the [Technion]("https://www.technion.ac.il") College.<br /> <br />
  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python" width="22"/>  Self.Py course graduate.<br /><br />  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/4228_discord_bot_dev.png" alt="Python" width="20"/>   Verifed Bots devloper by Discord<br />  
   
