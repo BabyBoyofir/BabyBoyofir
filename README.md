@@ -43,7 +43,7 @@
 <font size="6">__Main Linux Tools__</font>
 
 [<img src="https://static.techspot.com/images2/downloads/topdownload/2017/05/jtr.png" alt="jhonn" width="45"/>](https://en.wikipedia.org/wiki/John_the_Ripper)
-[<img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="hydra" width="45"/>](https://www.kali.org/tools/hydra/) [<img src="https://nmap.org/images/nmap-logo-256x256.png" alt="nmap" width="45"/>](https://nmap.org)[<img src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2_400x400.png" alt="msf" width="45"/>]([https://nmap.org](https://he.wikipedia.org/wiki/Metasploit))[<img src="https://mzcrack.com/wp-content/uploads/2022/03/Burp-Suite-Professional-Crack.png" alt="bs" width="40"/>](https://he.wikipedia.org/wiki/Burp_Suite)  [<img src="https://o.remove.bg/downloads/734e113f-b7f3-4a2a-87f2-844846b97819/download-removebg-preview.png" alt="kelev" width="46"/>](https://en.wikipedia.org/wiki/Autopsy_(software))
+[<img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="hydra" width="45"/>](https://www.kali.org/tools/hydra/) [<img src="https://nmap.org/images/nmap-logo-256x256.png" alt="nmap" width="45"/>](https://nmap.org)[<img src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2_400x400.png" alt="msf" width="45"/>](https://he.wikipedia.org/wiki/Metasploit) [<img src="https://mzcrack.com/wp-content/uploads/2022/03/Burp-Suite-Professional-Crack.png" alt="bs" width="40"/>](https://he.wikipedia.org/wiki/Burp_Suite)  [<img src="https://o.remove.bg/downloads/734e113f-b7f3-4a2a-87f2-844846b97819/download-removebg-preview.png" alt="kelev" width="46"/>](https://en.wikipedia.org/wiki/Autopsy_(software))
 
 
 
