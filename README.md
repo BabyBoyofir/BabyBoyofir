@@ -10,7 +10,7 @@
 <font size="5">__Introduction__ </font>                                         
 - 👀 I’m A Programmer since 2019. <br />
 - 🌱 I’m currently learning Swift. <br />
-- 💫 Knowledge: Py, JS, TS, Java, Php, Bash, C++, Html, Css. <br />
+- 💫 Knowledge: Py, JS, TS, Java, Php, Bash, React, C++, Html, Css. <br />
 - 📫 You can contact me via discord. <br />
 - ✉️ Discord: [MisterO.#8200](https://discord.com/users/959344949357330462) <br />
 - ✉️ Email: Babyboyofir1@gmail.com <br />
