@@ -13,7 +13,7 @@
 - 💫 Knowledge: Py, JS, TS, Java, Php, Bash, React, C++, Html, Css. <br />
 - 📫 You can contact me via discord. <br />
 - ✉️ Discord: [MisterO.#8200](https://discord.com/users/959344949357330462) <br />
-- ✉️ Email: Babyboyofir1@gmail.com <br />
+- ✉️ Email: MisterO@gmail.com <br />
 - 🌍 Website: https://babyboyofir.netlify.app/ <br />
 
 <br />
